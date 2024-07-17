@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/build",
+  "command": "\"C:/Path Programs/MinGW/bin/c++.exe\"   -g -o CMakeFiles/serial.dir/SimpleSerial.cpp.obj -c C:/Users/lechi/Desktop/lechs_codeverse/lechled/SimpleSerial.cpp",
+  "file": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/SimpleSerial.cpp",
+  "output": "CMakeFiles/serial.dir/SimpleSerial.cpp.obj"
+},
+{
+  "directory": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/build",
+  "command": "\"C:/Path Programs/MinGW/bin/c++.exe\"   -g -o CMakeFiles/led.dir/main.cpp.obj -c C:/Users/lechi/Desktop/lechs_codeverse/lechled/main.cpp",
+  "file": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/main.cpp",
+  "output": "CMakeFiles/led.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/build",
+  "command": "\"C:/Path Programs/MinGW/bin/c++.exe\"   -g -o CMakeFiles/led.dir/SimpleSerial.cpp.obj -c C:/Users/lechi/Desktop/lechs_codeverse/lechled/SimpleSerial.cpp",
+  "file": "C:/Users/lechi/Desktop/lechs_codeverse/lechled/SimpleSerial.cpp",
+  "output": "CMakeFiles/led.dir/SimpleSerial.cpp.obj"
+}
+]

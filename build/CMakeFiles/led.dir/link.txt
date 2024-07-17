@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\led.dir/objects.a
+C:\PATHPR~1\MinGW\bin\ar.exe qc CMakeFiles\led.dir/objects.a @CMakeFiles\led.dir\objects1.rsp
+C:\PATHPR~1\MinGW\bin\C__~1.EXE -g -g -Wl,--whole-archive CMakeFiles\led.dir/objects.a -Wl,--no-whole-archive -o led.exe -Wl,--out-implib,libled.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\led.dir\linkLibs.rsp

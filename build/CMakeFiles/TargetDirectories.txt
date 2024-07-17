@@ -1,0 +1,4 @@
+C:/Users/lechi/Desktop/lechs_codeverse/lechled/build/CMakeFiles/serial.dir
+C:/Users/lechi/Desktop/lechs_codeverse/lechled/build/CMakeFiles/led.dir
+C:/Users/lechi/Desktop/lechs_codeverse/lechled/build/CMakeFiles/edit_cache.dir
+C:/Users/lechi/Desktop/lechs_codeverse/lechled/build/CMakeFiles/rebuild_cache.dir

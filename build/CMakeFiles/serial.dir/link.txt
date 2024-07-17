@@ -1,0 +1,2 @@
+"C:/Path Programs/MinGW/bin/ar.exe" qc libserial.a CMakeFiles/serial.dir/SimpleSerial.cpp.obj
+"C:/Path Programs/MinGW/bin/ranlib.exe" libserial.a
